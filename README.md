@@ -1,2 +1,2 @@
-# zvit-vchs
+zvit-vchs.pp.ua
 
